@@ -23,7 +23,7 @@ function addData($data){
     $origin = $data ["origin"];
     $picture = $data ["picture"];
 
-    $query = "INSERT INTO Creatures VALUES ('', '$creatures','$code','$origin','$picture')";
+    $query = "INSERT INTO Creatures(creatures, code, origin,picture)VALUES ( '$creatures','$code','$origin','$picture')";
     mysqli_query($conn, $query);
 
     return mysqli_affected_rows($conn);

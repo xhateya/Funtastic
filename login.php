@@ -16,7 +16,7 @@
    <form action="funtastic.php" method="post" class="box">
        <div class="header">
            <h4>Login To Your Account</h4>
-           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et enim minus iusto? Magni, repellendus dolor?</p>
+           <p>Are you ready to see all the magical creatures from around the world?</p>
        </div>
        <div class="login-area">
            <input type="text" class="username" placeholder="Username">

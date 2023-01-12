@@ -135,7 +135,7 @@ header ul li a.active{
     border-radius: 5px;
 
 }
-.about{
+/* .about{
     position: relative;
     width: 100%;
     display: flex;
@@ -163,7 +163,7 @@ header ul li a.active{
     min-width: 50%;
     width: 50%;
     min-height: 500px;
-}
+} */
 .banner2, 
 .banner3{
     position: relative;
